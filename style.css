@@ -1,0 +1,48 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    
+    background-image: url(img/bosquejo.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 1700px;
+    height: 600px;
+}
+
+img {
+    margin-top: 30px;
+    width: 1000px;
+    height: 600px;
+    border-radius: 20px 20px 20px;
+    
+    
+}
+
+  #ramdomButton {
+    margin-left: 40%;
+    margin-top: 80px;
+    width: 500px;
+    height: 60px;
+    font-size: 32px;
+    font-weight: 800;
+    color:rgb(85, 30, 85) ;
+    font-family: sans-serif ;
+    background-color: rgb(59, 182, 141);
+    border: none;
+    border-radius: 30px 30px; 
+    box-shadow: 1px 3px;
+       
+}
+ 
